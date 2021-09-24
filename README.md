@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub page!
 
 <!--
 **ysard/ysard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### GitHub trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
