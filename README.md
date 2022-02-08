@@ -4,6 +4,8 @@
 [![Followers](https://img.shields.io/github/followers/ysard?style=social)](https://github.com/ysard?tab=followers)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=ysard.profileviews-badge)](https://github.com/ysard)
 
+Here you will find some information about my work that Microsoft-GitHub knows and that it can use in [its projects](https://programmation.developpez.com/actu/316749/Copilot-l-outil-d-IA-commercial-de-GitHub-est-critique-par-la-communaute-du-logiciel-open-source-pour-sa-reproduction-aveugle-des-blocs-de-code/) without asking me for permission.
+
 ### Some statistics
 
 
