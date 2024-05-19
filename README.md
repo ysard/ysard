@@ -2,7 +2,10 @@
 
 [![Repos](https://badges.pufler.dev/repos/ysard)](https://github.com/ysard?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/ysard?style=social)](https://github.com/ysard?tab=followers)
+[![Profile Visitors](https://pro-domo.ddns.net/gh_visitors.php)](https://github.com/ysard)
+<!--
 [![Profile Visitors](https://hits.dwyl.com/ysard/ysard.svg?style=flat-square)](https://github.com/ysard)
+-->
 
 Here you will find some information about my work that Microsoft-GitHub knows and that it can use in [its projects](https://programmation.developpez.com/actu/316749/Copilot-l-outil-d-IA-commercial-de-GitHub-est-critique-par-la-communaute-du-logiciel-open-source-pour-sa-reproduction-aveugle-des-blocs-de-code/) without asking me for permission.
 
