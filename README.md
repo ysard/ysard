@@ -15,7 +15,7 @@ Here you will find some information about my work that Microsoft-GitHub knows an
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysard&theme=algolia&custom_title=streak-stats&hide_border=true&layout=compact&cache_seconds=86400">
 </a>
 </p>
