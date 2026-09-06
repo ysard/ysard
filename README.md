@@ -14,7 +14,7 @@ Here you will find some information about my work that Microsoft-GitHub knows an
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysard&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=algolia&layout=compact&include_all_commits=true&cache_seconds=86400">
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=ysard&show_icons=true&hide_border=true&show_owner=true&theme=algolia&layout=compact&include_all_commits=true&cache_seconds=86400">
 </a>
 </p>
 <p align="center">
