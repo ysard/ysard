@@ -28,7 +28,7 @@ Here you will find some information about my work that Microsoft-GitHub knows an
 </a>
 </p>
 
-### About languages used here
+### About the languages used here
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
