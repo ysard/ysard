@@ -44,4 +44,4 @@ Here you will find some information about my work that Microsoft-GitHub knows an
 
 ### GitHub trophies
 
-[![](https://gh-trophy.cdnsoft.net/?username=ysard&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-repo.vercel.app/?username=ysard&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
